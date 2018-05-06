@@ -25,7 +25,8 @@
     "flag code"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/linmoer/vue-flag-list#readme",
+  // "homepage": "https://github.com/linmoer/vue-flag-list#readme",
+  "homepage": "https://github.com/LiGaoFenglove/vue-flag-list",
   "dependencies": {
     "vue": "^2.3.3"
   },
